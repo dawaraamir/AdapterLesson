@@ -17,4 +17,4 @@ Using an example of a music player we know there are many media types for audio 
 9.	In this mediaadpater class we have to create a constructor for the media adapter that creates objects for the media types we created
 10.	 Then we can go back into our audio player and create our mediaadapter instance variable that we can use now for an else if to get our other two types of play types 
 11.	And if you’re feeling fancy you can finish with an else that catches any media type we didn’t utilize in our specified music types.
-12.	Then finally we can go back into our main and test our our adapter.
+12.	Then finally we can go back into our main and test out our adapter.
